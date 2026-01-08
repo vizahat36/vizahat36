@@ -1,75 +1,186 @@
-<h1 align="center">Hi 👋, I'm Mohammed Vijahath</h1>
-<h3 align="center">Java Full Stack Developer | AI/ML Enthusiast | Pythonista | Docker Ninja</h3>
+# Mohammed Vijahath
+
+**Java Full Stack Developer | Backend-Focused | Open-Source Aspirant | AI Automation Learner**
+
+---
+
+## Professional Summary
+
+Backend-leaning Full Stack Developer with hands-on experience building **real-time systems, scalable REST APIs, automation pipelines, and AI-assisted applications**.  
+Strong focus on **code quality, system design fundamentals, and open-source contribution workflows**, particularly in **Java, Spring Boot, and JavaScript ecosystems**.
+
+---
+
+## Core Technical Skills
+
+### Backend Development
+- Java, Spring Boot  
+- RESTful API Design  
+- WebSockets (real-time communication)  
+- Authentication & Authorization (JWT, sessions)  
+- SQL: MySQL, PostgreSQL  
+
+### Frontend
+- React.js  
+- HTML5, CSS3, JavaScript  
+- Responsive UI fundamentals  
+
+### AI & Automation (Learning + Applied)
+- Python  
+- AI API integrations  
+- **n8n (learning)** – workflow automation  
+- **AI Workflows & AI Agents (learning)**  
+- Backend-driven automation pipelines  
+
+### DevOps & Tooling
+- Docker  
+- Git & GitHub  
+- Postman  
+- Linux basics  
+
+---
+
+## GitHub Activity & Visibility
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Crafting+AI-Driven+Web+Solutions;Passionate+about+Java+Spring+Boot+React;Always+Learning+%26+Building+Cool+Things" alt="Typing SVG" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vizahat36&theme=radical&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vizahat36&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-### 💡 About Me
+## Open-Source Contribution Highlights
 
-🔭 I’m currently working on:  
-⚡ `AI-powered productivity platforms`, `Real-time chat apps`, and `Smart learning dashboards`  
+### WordPress / Gutenberg (Active Preparation Phase)
+- Studying Gutenberg block editor architecture  
+- Understanding `@wordpress/components` and React-based blocks  
+- Practicing:
+  - Issue analysis and reproduction  
+  - Codebase navigation in large repositories  
+  - Writing clean, review-friendly commits  
 
-💬 Ask me about:  
-✔️ Full Stack Development  
-✔️ AI/ML Integration  
-✔️ Scalable Web Architectures  
-✔️ Dockerized Deployments
+### General Open-Source Practices
+- GitHub Issues & PR workflows  
+- Bug reproduction and root-cause analysis  
+- Incremental, scoped pull requests  
+- Clear commit messages and documentation updates  
 
-🌱 I’m currently learning:  
-- Deep Learning with TensorFlow  
-- Microservices & Scalable Architectures  
-- Cloud Deployment using AWS & Render
-
-📫 How to reach me:  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohammed-vijahath/)  
-- 📧 Email: `mohammedvijahath@gmail.com`
+**Objective:** Become a consistent contributor to **WordPress/Gutenberg and JavaScript-based open-source projects**.
 
 ---
 
-### 🚀 Tech Stack
+## Selected Projects (Curated)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,react,html,css,js,docker,mysql,postgres,git,github,vscode,postman,genai" />
-</p>
+### 🔹 Focus Learn
+**Repository:** https://github.com/vizahat36/FocusLearn  
 
----
+**Description:**  
+Learning-focused productivity application aimed at structured focus and discipline.
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vizahat36&show_icons=true&theme=radical&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vizahat36&layout=compact&theme=radical" height="180"/>
-</p>
-
----
-
-### 🧠 My Current Projects
-
-- 🎯 **AI Timetable Chatbot** – Smart scheduling with reminders and productivity tools  
-- 💬 **Real-Time Chat App** – WebSocket-based chat with Spring Boot backend  
-- 📈 **Student Management System** – Full stack app for academic & event tracking  
-- 🤖 **Voice Assistant in Python** – Opens apps, fetches weather/news, interacts smartly
+**Skills Demonstrated**
+- Java backend design  
+- Modular project structure  
+- Feature-driven development  
+- Problem-oriented application design  
 
 ---
 
-### 🎯 Goals for 2025
+### 🔹 Real-Time Chat Application
+**Repository:** https://github.com/vizahat36/Chat_Room  
 
-- ✅ Contribute to open source AI tools  
-- ✅ Master backend system design & microservices  
-- ✅ Deploy a large-scale AI-powered SaaS platform  
-- ✅ Intern or collaborate on an AI-driven EdTech or DevTool project
+**Description:**  
+Multi-user real-time chat system with persistent messaging.
+
+**Skills Demonstrated**
+- Spring Boot  
+- WebSockets  
+- Real-time system design  
+- Concurrent user handling  
+- Backend performance considerations  
 
 ---
 
-### 🧩 Fun Fact
+### 🔹 Ragna
+**Repository:** https://github.com/vizahat36/Ragna  
 
-> “I see challenges not as roadblocks, but as the best debugging puzzles.” 😄
+**Description:**  
+AI-assisted backend experimentation project.
+
+**Skills Demonstrated**
+- Python-based AI integration  
+- Backend logic orchestration  
+- API-driven AI workflows  
+- Early AI agent concepts  
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
+### 🔹 Crypto Monitor – Backend System
+**Repository:** https://github.com/vizahat36/Crypto-Monitor-Backend-System  
+
+**Description:**  
+Backend service for monitoring cryptocurrency-related data.
+
+**Skills Demonstrated**
+- REST API development  
+- Data handling and validation  
+- Backend system structuring  
+- Scalable service design principles  
+
+---
+
+### 🔹 Intent Expansion Pipeline
+**Repository:** https://github.com/vizahat36/Intent-Expansion-Pipeline  
+
+**Description:**  
+NLP-oriented pipeline for expanding and processing user intents.
+
+**Skills Demonstrated**
+- Python  
+- NLP preprocessing concepts  
+- AI workflow structuring  
+- Pipeline-based backend logic  
+
+---
+
+### 🔹 Fest Management System
+**Repository:** https://github.com/vizahat36/Fest-Management-System-Database-Project  
+
+**Description:**  
+Database-driven system for managing events, participants, and registrations.
+
+**Skills Demonstrated**
+- Database schema design  
+- SQL queries and relationships  
+- Backend CRUD operations  
+- System modeling  
+
+---
+
+## Engineering Strengths
+- Strong backend fundamentals  
+- Data structures and problem solving  
+- Clean, readable, maintainable code  
+- Debugging complex logic  
+- Learning-driven mindset with practical execution  
+
+---
+
+## Learning Focus (2025)
+- Advanced backend system design  
+- Microservices fundamentals  
+- n8n-based automation  
+- AI agents & workflow orchestration  
+- Deep open-source contributions (WordPress ecosystem)  
+
+---
+
+## Contact
+- **LinkedIn:** https://www.linkedin.com/in/mohammed-vijahath  
+- **Email:** mohammedvijahath@gmail.com  
+
+---
+
+> *“I focus on building systems that work reliably before making them fancy.”*
