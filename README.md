@@ -4,6 +4,50 @@
 
 ---
 
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=vizahat36&label=Profile%20Views&color=0e75b6&style=for-the-badge" 
+    alt="Profile Views"
+  />
+</p>
+
+<div align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=vizahat36&theme=tokyonight&hide_border=false" 
+    alt="GitHub Streak"
+  />
+</div>
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vizahat36&layout=compact&theme=tokyonight&cache_seconds=86400" 
+    alt="Top Languages"
+  />
+</div>
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=vizahat36&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=86400" 
+    alt="GitHub Stats"
+  />
+</div>
+
+<div align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vizahat36&theme=react-dark&hide_border=true&cache_seconds=86400" 
+    alt="Contribution Graph"
+  />
+</div>
+
+<div align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=vizahat36&theme=onedark&column=4&margin-w=15&margin-h=15" 
+    alt="GitHub Trophies"
+  />
+</div>
+
+---
+
 ## Professional Summary
 
 Backend-leaning Full Stack Developer with hands-on experience building **real-time systems, scalable REST APIs, automation pipelines, and AI-assisted applications**.  
@@ -40,19 +84,19 @@ Strong focus on **code quality, system design fundamentals, and open-source cont
 
 ---
 
-## GitHub Activity & Visibility
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vizahat36&theme=radical&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vizahat36&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
-
 ## Open-Source Contribution Highlights
+
+### ✅ Merged Pull Request – Vault-Web Project
+**Repository:** https://github.com/Vault-Web/Vault-web  
+**Pull Request:** Add missing unit tests for UserService and AuthService  
+**Status:** Merged ✅ 
+
+**Contribution Summary:**
+- Added comprehensive unit tests for `UserService` and `AuthService`
+- Improved test coverage and service reliability
+- Followed existing project testing conventions
+- Collaborated with maintainers through review feedback
+- Successfully merged into the `main` branch
 
 ### WordPress / Gutenberg (Active Preparation Phase)
 - Studying Gutenberg block editor architecture  
