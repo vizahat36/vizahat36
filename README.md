@@ -1,6 +1,16 @@
-# Mohammed Vijahath
+<h1 align="center">👋 Hello, I'm Mohammed Vijahath</h1>
+<h3 align="center">Backend-Focused Full Stack Developer | Java & Spring Boot | Open-Source Contributor</h3>
 
-**Java Full Stack Developer | Backend-Focused | Open-Source Aspirant | AI Automation Learner**
+<div align="center">
+
+Backend-leaning Full Stack Developer with hands-on experience building  
+**real-time systems, scalable REST APIs, automation pipelines, and AI-assisted applications**.
+
+Strong focus on **code quality, system design fundamentals, and open-source contribution workflows**,  
+particularly in **Java, Spring Boot, and JavaScript ecosystems**.
+
+</div>
+
 
 ---
 
@@ -48,176 +58,52 @@
 
 ---
 
-## Professional Summary
+## Core Skills
 
-Backend-leaning Full Stack Developer with hands-on experience building **real-time systems, scalable REST APIs, automation pipelines, and AI-assisted applications**.  
-Strong focus on **code quality, system design fundamentals, and open-source contribution workflows**, particularly in **Java, Spring Boot, and JavaScript ecosystems**.
-
----
-
-## Core Technical Skills
-
-### Backend Development
-- Java, Spring Boot  
-- RESTful API Design  
-- WebSockets (real-time communication)  
-- Authentication & Authorization (JWT, sessions)  
-- SQL: MySQL, PostgreSQL  
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-005571?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
 
 ### Frontend
-- React.js  
-- HTML5, CSS3, JavaScript  
-- Responsive UI fundamentals  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### AI & Automation (Learning + Applied)
-- Python  
-- AI API integrations  
-- **n8n (learning)** – workflow automation  
-- **AI Workflows & AI Agents (learning)**  
-- Backend-driven automation pipelines  
-
-### DevOps & Tooling
-- Docker  
-- Git & GitHub  
-- Postman  
-- Linux basics  
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## Open-Source Contribution Highlights
+## Open-Source Contributions
 
-### ✅ Merged Pull Request – Vault-Web Project
-**Repository:** https://github.com/Vault-Web/Vault-web  
-**Pull Request:** Add missing unit tests for UserService and AuthService  
-**Status:** Merged ✅ 
-
-**Contribution Summary:**
-- Added comprehensive unit tests for `UserService` and `AuthService`
+### ✅ Merged Pull Request – Vault-Web
+- Added unit tests for `UserService` and `AuthService`
 - Improved test coverage and service reliability
-- Followed existing project testing conventions
-- Collaborated with maintainers through review feedback
-- Successfully merged into the `main` branch
+- Collaborated with maintainers; merged into `main`
 
-### WordPress / Gutenberg (Active Preparation Phase)
-- Studying Gutenberg block editor architecture  
-- Understanding `@wordpress/components` and React-based blocks  
-- Practicing:
-  - Issue analysis and reproduction  
-  - Codebase navigation in large repositories  
-  - Writing clean, review-friendly commits  
+🔗 https://github.com/Vault-Web/Vault-web
 
-### General Open-Source Practices
-- GitHub Issues & PR workflows  
-- Bug reproduction and root-cause analysis  
-- Incremental, scoped pull requests  
-- Clear commit messages and documentation updates  
-
-**Objective:** Become a consistent contributor to **WordPress/Gutenberg and JavaScript-based open-source projects**.
+### 🚀 WordPress / Gutenberg (Active Contribution Preparation)
+- Studying Gutenberg block editor architecture
+- Working with `@wordpress/components` and React-based blocks
+- Practicing issue analysis, large codebase navigation, and clean, review-friendly commits
 
 ---
 
-## Selected Projects (Curated)
-
-### 🔹 Focus Learn
-**Repository:** https://github.com/vizahat36/FocusLearn  
-
-**Description:**  
-Learning-focused productivity application aimed at structured focus and discipline.
-
-**Skills Demonstrated**
-- Java backend design  
-- Modular project structure  
-- Feature-driven development  
-- Problem-oriented application design  
-
----
-
-### 🔹 Real-Time Chat Application
-**Repository:** https://github.com/vizahat36/Chat_Room  
-
-**Description:**  
-Multi-user real-time chat system with persistent messaging.
-
-**Skills Demonstrated**
-- Spring Boot  
-- WebSockets  
-- Real-time system design  
-- Concurrent user handling  
-- Backend performance considerations  
-
----
-
-### 🔹 Ragna
-**Repository:** https://github.com/vizahat36/Ragna  
-
-**Description:**  
-AI-assisted backend experimentation project.
-
-**Skills Demonstrated**
-- Python-based AI integration  
-- Backend logic orchestration  
-- API-driven AI workflows  
-- Early AI agent concepts  
-
----
-
-### 🔹 Crypto Monitor – Backend System
-**Repository:** https://github.com/vizahat36/Crypto-Monitor-Backend-System  
-
-**Description:**  
-Backend service for monitoring cryptocurrency-related data.
-
-**Skills Demonstrated**
-- REST API development  
-- Data handling and validation  
-- Backend system structuring  
-- Scalable service design principles  
-
----
-
-### 🔹 Intent Expansion Pipeline
-**Repository:** https://github.com/vizahat36/Intent-Expansion-Pipeline  
-
-**Description:**  
-NLP-oriented pipeline for expanding and processing user intents.
-
-**Skills Demonstrated**
-- Python  
-- NLP preprocessing concepts  
-- AI workflow structuring  
-- Pipeline-based backend logic  
-
----
-
-### 🔹 Fest Management System
-**Repository:** https://github.com/vizahat36/Fest-Management-System-Database-Project  
-
-**Description:**  
-Database-driven system for managing events, participants, and registrations.
-
-**Skills Demonstrated**
-- Database schema design  
-- SQL queries and relationships  
-- Backend CRUD operations  
-- System modeling  
-
----
-
-## Engineering Strengths
-- Strong backend fundamentals  
-- Data structures and problem solving  
-- Clean, readable, maintainable code  
-- Debugging complex logic  
-- Learning-driven mindset with practical execution  
-
----
-
-## Learning Focus (2025)
-- Advanced backend system design  
-- Microservices fundamentals  
-- n8n-based automation  
-- AI agents & workflow orchestration  
-- Deep open-source contributions (WordPress ecosystem)  
+## Selected Projects
+- **Real-Time Chat Application** – Spring Boot, WebSockets  
+  https://github.com/vizahat36/Chat_Room
+- **Focus Learn** – Java backend productivity app  
+  https://github.com/vizahat36/FocusLearn
+- **Crypto Monitor (Backend)** – REST-based monitoring system  
+  https://github.com/vizahat36/Crypto-Monitor-Backend-System
 
 ---
 
