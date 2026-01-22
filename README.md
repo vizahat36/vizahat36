@@ -81,14 +81,23 @@ particularly in **Java, Spring Boot, and JavaScript ecosystems**.
 
 ---
 
-## Open-Source Contributions
+## 🚀 Open Source Contributions
 
-### ✅ Merged Pull Request – Vault-Web
-- Added unit tests for `UserService` and `AuthService`
-- Improved test coverage and service reliability
-- Collaborated with maintainers; merged into `main`
+### 🔹 TheAlgorithms (Java) — ~65k ⭐
+- ✅ **Merged PR:** Fixed Unicode digit parsing bug in `MyAtoi`
+- Replaced `Character.isDigit()` with strict ASCII digit validation
+- Ensured correct `atoi` behavior and prevented invalid numeric parsing
+- 🔗 https://github.com/TheAlgorithms/Java/pull/7231
 
-🔗 https://github.com/Vault-Web/Vault-web
+---
+
+### 🔹 Vault-Web — Java / Spring Boot
+- ✅ **Merged PR:** Added missing unit tests for `UserService` and `AuthService`
+- Implemented JUnit 5 + Mockito tests for authentication and user workflows
+- Improved service reliability with fast, isolated tests
+- 🔗 https://github.com/Vault-Web/vault-web/pull/175
+
+---
 
 ### 🚀 WordPress / Gutenberg (Active Contribution Preparation)
 - Studying Gutenberg block editor architecture
