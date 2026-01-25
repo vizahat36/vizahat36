@@ -92,10 +92,19 @@ particularly in **Java, Spring Boot, and JavaScript ecosystems**.
 ---
 
 ### 🔹 Vault-Web — Java / Spring Boot
-- ✅ **Merged PR:** Added missing unit tests for `UserService` and `AuthService`
-- Implemented JUnit 5 + Mockito tests for authentication and user workflows
-- Improved service reliability with fast, isolated tests
-- 🔗 https://github.com/Vault-Web/vault-web/pull/175
+- ✅ **Merged PRs:** Added comprehensive unit tests across backend service layers
+- Implemented **JUnit 5 + Mockito** tests for:
+  - `UserService` and `AuthService` (registration, authentication, validation)
+  - `ChatService` and `PrivateChatService` (chat creation, messaging, edge cases)
+  - `GroupService` (group lifecycle, membership, role-based rules)
+- Covered critical business logic, error handling, and regression scenarios
+- Tests are fast, isolated, and independent of DB/network
+- Completed and closed **“Introduce Unit Tests for Backend Endpoints and Services”** (Issue #109)
+- 🔗 PRs:  
+  - https://github.com/Vault-Web/vault-web/pull/175  
+  - https://github.com/Vault-Web/vault-web/pull/177  
+  - https://github.com/Vault-Web/vault-web/pull/178
+
 
 ---
 
